@@ -144,10 +144,18 @@ function Body() {
               <option>Дождливая</option>
               <option>Снежная</option>
               <option>Ветреная</option>
+              <option>Замечательная</option>
             </select>
           </form>
         </div>
 
+
+   <input
+                type="button"
+                value="Задание №999"
+                className="elements"
+                onClick="task_7()"
+            />
       </div>
   );
 }
